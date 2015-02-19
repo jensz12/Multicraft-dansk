@@ -17,11 +17,11 @@
  * NOTE, this file must be saved in UTF-8 encoding.
  */
 return array (
-  '(* Warning: Be sure to run Multicraft in "multiuser" mode with this!)' => '',
-  '(Leave empty to use cached Password)' => '',
+  '(* Warning: Be sure to run Multicraft in "multiuser" mode with this!)' => '(Advarsel! Kør Multicraft i "multiuser" tilstand for at kunne bruge dette)',
+  '(Leave empty to use cached Password)' => '(Efterlad tomt, for at bruge gemt adgangskode)',
   '(action "{action}" for "{role}")' => '',
-  '(no player)' => '',
-  '(no server)' => '',
+  '(no player)' => '(Ingen spillere)',
+  '(no server)' => '(Ingen servere)',
   '(self action "{action}" for "{role}")' => '',
   '(unchanged)' => '',
   'A new server has been assigned to you! You can control and edit it here:' => '',
